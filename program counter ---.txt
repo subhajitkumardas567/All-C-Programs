@@ -1,0 +1,11 @@
+program counter --- 
+pin in 8085 total pins
+diagram in dsp korte debe
+frequency of AC/DC signal
+1/(s+a)(s+c) find poles and zeros
+addressing modes in 8085 with example
+graphs of all experiment--- LPF,IDFT,DFT, stopband, bandpass mark korte debe  
+twiddle factor
+memory interfacing in 8085
+flags in 8085, 8086, 8051 with examples
+dft and dtft  and idft difference
